@@ -1,0 +1,62 @@
+body{
+	margin:0px;
+	padding:0px;
+	color: black;
+	background-color:#12CBC4;
+	font-size:15px;
+	font-family: Arial;
+}
+#title{
+	color: black;
+	background-color:rgb(130, 88, 159);
+	text-align: center;
+	width: 100%;
+	margin: auto;
+    
+}
+
+.container{
+	width:75%;
+	margin:auto;
+	background-color:#fff;
+	color:black;
+	padding:20px;
+}
+
+#details p{
+	color:rgb(249, 127, 81);
+	font-style:italic;
+} 
+.description{
+	text-align:center;
+}
+.survey-form {
+	text-align:center;
+}
+.row-tab{
+	display:block;
+	padding-bottom:25px;
+}
+
+.label-tab{
+	display:inline-block;
+	width:54%;
+	text-align:left;
+	vertical-align:top;
+	
+}
+.input-tab{
+	display:inline-block;
+	width:45%;
+	text-align:right;
+	
+	
+}
+.select-tab{
+	display:inline-block;
+	width:45%;
+	text-align:right;
+}
+#select-box{
+	padding: 5px 0px;
+}
